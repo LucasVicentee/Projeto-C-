@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lh201\\OneDrive\\Documentos\\AtividadesC#\\AgregacaoC#\\AgregacaoVenda\\AgregacaoVenda.csproj",
-      "projectName": "AgregacaoVenda",
-      "projectPath": "C:\\Users\\lh201\\OneDrive\\Documentos\\AtividadesC#\\AgregacaoC#\\AgregacaoVenda\\AgregacaoVenda.csproj",
+      "projectUniqueName": "C:\\Users\\lh201\\OneDrive\\Área de Trabalho\\ComposicaoC#\\Composicao\\Composicao.csproj",
+      "projectName": "Composicao",
+      "projectPath": "C:\\Users\\lh201\\OneDrive\\Área de Trabalho\\ComposicaoC#\\Composicao\\Composicao.csproj",
       "packagesPath": "C:\\Users\\lh201\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lh201\\OneDrive\\Documentos\\AtividadesC#\\AgregacaoC#\\AgregacaoVenda\\obj\\",
+      "outputPath": "C:\\Users\\lh201\\OneDrive\\Área de Trabalho\\ComposicaoC#\\Composicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lh201\\AppData\\Roaming\\NuGet\\NuGet.Config"
